@@ -73,11 +73,11 @@ const App: React.FC = () => {
 export default App;
 ```
 ### 7-Para executar o projeto que você criou, siga estes passos:
-Instale as dependências: No terminal, dentro do diretório do seu projeto, execute:
+Instale as dependências: No terminal, dentro do diretório do seu projeto, execute:  
 ``` npm install ```
 
-Inicie o servidor de desenvolvimento: Ainda no terminal, execute:
-``` npm run dev ```
+Inicie o servidor de desenvolvimento: Ainda no terminal, execute:  
+``` npm run dev ``` 
 
 Acesse o projeto no navegador: Após iniciar o servidor de desenvolvimento, você verá uma mensagem no terminal indicando em qual endereço o projeto está sendo servido, geralmente algo como http://localhost:3000. Abra o navegador e acesse esse endereço.  
 Pronto! Agora você deve ver seu projeto React com TypeScript, Vite e Redux rodando no navegador.
